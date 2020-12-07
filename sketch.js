@@ -49,7 +49,7 @@ function setup() {
 }
 
 function draw() {
-  background("brown");
+  background("white");
   
   
   
